@@ -14,9 +14,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./app/*"]
-    },
-
-    "types": ["wxt/client"]
+    }
   },
   "include": ["app", "entrypoints", "tests", "wxt.config.ts"]
 }

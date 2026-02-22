@@ -25,7 +25,7 @@ This release establishes the technical foundation of the project.
 
 ### Architecture & Core Setup
 
-- [ ] Basic branding configuration
+- [x] Basic branding configuration
 - [x] Dexie setup for IndexedDB
 - [x] Pinia setup for state management
 - [x] Vue i18n setup for localization
@@ -37,7 +37,7 @@ This release establishes the technical foundation of the project.
 
 ### Automation
 
-- [ ] CI/CD pipeline configuration
+- [x] CI/CD pipeline configuration
 - [ ] Copilot configuration
 
 ## Notes

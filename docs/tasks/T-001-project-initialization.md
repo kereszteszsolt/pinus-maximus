@@ -22,7 +22,7 @@ No user-facing features are implemented in this step.
 
 ## Steps
 
-- [ ] Initialize WXT project
+- [x] Initialize WXT project
 - [ ] Configure TypeScript (strict mode enabled)
 - [ ] Set up project folder structure (domain / infra / ui / shared)
 - [ ] Add basic branding configuration

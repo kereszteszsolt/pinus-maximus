@@ -38,7 +38,7 @@ This release establishes the technical foundation of the project.
 ### Automation
 
 - [x] CI/CD pipeline configuration
-- [ ] Copilot configuration
+- [x] Copilot configuration
 
 ## Notes
 

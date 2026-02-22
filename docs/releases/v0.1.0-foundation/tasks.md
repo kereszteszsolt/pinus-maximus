@@ -32,7 +32,7 @@ This release establishes the technical foundation of the project.
 
 ### Testing
 
-- [ ] Unit testing setup (Vitest)
+- [x] Unit testing setup (Vitest)
 - [ ] E2E testing setup (Playwright)
 
 ### Automation

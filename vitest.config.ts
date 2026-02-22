@@ -40,12 +40,12 @@ export default defineConfig({
         '**/*.stories.*',
       ],
 
-      thresholds: {
-        statements: 0,
-        branches: 0,
-        functions: 0,
-        lines: 0,
-      },
+      // thresholds: {
+      //   statements: 80,
+      //   branches: 70,
+      //   functions: 80,
+      //   lines: 80,
+      // },
     },
   },
 });

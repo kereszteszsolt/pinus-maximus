@@ -28,7 +28,7 @@ This release establishes the technical foundation of the project.
 - [ ] Basic branding configuration
 - [x] Dexie setup for IndexedDB
 - [x] Pinia setup for state management
-- [ ] Vue i18n setup for localization
+- [x] Vue i18n setup for localization
 
 ### Testing
 

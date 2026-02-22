@@ -22,17 +22,17 @@ No user-facing features are implemented in this step.
 
 ## Steps
 
-- [x] Initialize WXT project
+- [X] Initialize WXT project
 - [ ] Configure TypeScript (strict mode enabled)
 - [ ] Set up project folder structure (domain / infra / ui / shared)
 - [ ] Add basic branding configuration
-- [ ] Configure ESLint + Prettier
+- [X] Configure ESLint + Prettier
 - [ ] Set up Vitest with coverage
 - [ ] Create `tests/unit` base structure
 - [ ] Add minimal Playwright setup (empty smoke test)
 - [ ] Create initial `docs/` structure
 - [X] Add Apache 2.0 license
-- [ ] Add initial README
+- [X] Add initial README
 
 ---
 

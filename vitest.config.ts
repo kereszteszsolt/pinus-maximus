@@ -14,6 +14,7 @@ export default defineConfig({
     environment: 'jsdom',
     globals: true,
     include: ['tests/**/*.spec.ts'],
+    exclude: ['tests/e2e/**'],
 
     clearMocks: true,
     restoreMocks: true,

@@ -29,15 +29,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: package-lock.json
 
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
 
-      - name: Build (if present)
-        run: npm run build --if-present
 
       - name: Run unit tests (Vitest)
         run: npm run test:run

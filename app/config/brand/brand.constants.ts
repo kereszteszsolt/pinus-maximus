@@ -8,11 +8,6 @@ export const BRAND_CONFIG = {
   storagePrefix: 'pinboard',
   defaultLanguage: 'en',
 
-  theme: {
-    primaryColor: '#2563eb',
-    accentColor: '#f59e0b',
-  },
-
   links: {
     website: 'https://yourapp.com',
     privacy: 'https://yourapp.com/privacy',

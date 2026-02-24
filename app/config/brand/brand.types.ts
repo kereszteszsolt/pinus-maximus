@@ -6,10 +6,6 @@ export interface BrandConfig {
   supportEmail: string;
   storagePrefix: string;
   defaultLanguage: string;
-  theme: {
-    primaryColor: string;
-    accentColor: string;
-  };
   links: {
     website: string;
     privacy: string;
